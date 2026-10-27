@@ -1,0 +1,43 @@
+name: Zirrek V7 - Saatlik Public Fiyat
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 * * * *'
+permissions:
+  contents: write
+concurrency:
+  group: zirrek-v7-public-market
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Refresh market-only snapshot
+        run: python refresh_market.py
+      - name: Verify public-only data
+        run: |
+          python - <<'PY'
+          import json
+          d=json.load(open('data.json',encoding='utf-8'))
+          assert len(d['coins'])==50 and d['real_orders'] is False
+          assert d['analysis_available'] is False
+          assert all(c['status']=='ANALIZ_BEKLENIYOR' and c['price']>0 for c in d['coins'])
+          print('PUBLIC DATA SAFE')
+          PY
+      - name: Commit snapshot (auto-triggers Pages deployment)
+        run: |
+          set -euo pipefail
+          git config user.name "Zirrek V7 Public Market"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh OKX public market snapshot"
+            git push origin HEAD:main
+          fi
