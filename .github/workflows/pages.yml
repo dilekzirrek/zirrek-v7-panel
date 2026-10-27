@@ -1,0 +1,38 @@
+name: Zirrek V7 - Panel Yayinla
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: zirrek-v7-panel-pages
+  cancel-in-progress: false
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Guard against accidental publishing
+        run: |
+          python - <<'PY'
+          import json,pathlib
+          root=pathlib.Path('.')
+          assert (root/'index.html').is_file() and (root/'data.json').is_file()
+          d=json.loads((root/'data.json').read_text())
+          assert d.get('real_orders') is False and len(d.get('coins',[]))<=100
+          allow={'symbol','status','price','change24h','quote_volume24h','side','entry','stop','target','rr','direction','missing','error'}
+          assert all(set(c)<=allow for c in d['coins'])
+          print('Public market-only panel verified')
+          PY
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deployment
+        uses: actions/deploy-pages@v4
