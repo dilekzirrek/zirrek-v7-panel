@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T17:24:59.382785+00:00",
+  "generated_at": "2026-11-23T19:26:45.640679+00:00",
   "source": "OKX public spot",
   "market": "USDT",
   "real_orders": false,
@@ -9,352 +9,352 @@
     {
       "symbol": "BTCUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 61882.8,
-      "change24h": 1.639,
-      "quote_volume24h": 54600562989182.14
+      "price": 61521.1,
+      "change24h": 1.3,
+      "quote_volume24h": 56067652953504.91
     },
     {
       "symbol": "ETHUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 1762.14,
-      "change24h": 2.74,
-      "quote_volume24h": 663703318963.44
+      "price": 1738.64,
+      "change24h": 1.361,
+      "quote_volume24h": 695857477687.39
     },
     {
       "symbol": "XAUTUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 3655.0,
-      "change24h": 2.744,
-      "quote_volume24h": 51128344069.52
+      "price": 3643.7,
+      "change24h": 2.689,
+      "quote_volume24h": 51852535733.52
     },
     {
       "symbol": "ZECUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 834.32,
-      "change24h": 4.938,
-      "quote_volume24h": 42615759388.63
+      "price": 813.4,
+      "change24h": 2.807,
+      "quote_volume24h": 45480695026.68
     },
     {
       "symbol": "PAXGUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 3657.1,
-      "change24h": 2.676,
-      "quote_volume24h": 8590809865.61
+      "price": 3645.5,
+      "change24h": 2.751,
+      "quote_volume24h": 8293870447.73
     },
     {
       "symbol": "SOLUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 74.24,
-      "change24h": 5.41,
-      "quote_volume24h": 7394134364.11
+      "price": 73.18,
+      "change24h": 4.023,
+      "quote_volume24h": 8259465139.63
     },
     {
       "symbol": "BNBUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 564.61,
-      "change24h": 1.168,
-      "quote_volume24h": 4360501127.54
+      "price": 560.18,
+      "change24h": 0.528,
+      "quote_volume24h": 4396706608.54
     },
     {
       "symbol": "XQQQUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 652.57,
-      "change24h": 3.959,
-      "quote_volume24h": 3765766825.36
+      "price": 651.95,
+      "change24h": 3.86,
+      "quote_volume24h": 3856697090.76
     },
     {
       "symbol": "XMUUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 710.78,
-      "change24h": 14.74,
-      "quote_volume24h": 3004141746.6
+      "price": 708.85,
+      "change24h": 14.617,
+      "quote_volume24h": 3007703281.17
     },
     {
       "symbol": "HYPEUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 65.979,
-      "change24h": 4.805,
-      "quote_volume24h": 2724279672.53
+      "price": 64.873,
+      "change24h": 3.696,
+      "quote_volume24h": 2791353717.18
     },
     {
       "symbol": "XGOOGLUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 283.0,
-      "change24h": 2.812,
-      "quote_volume24h": 1810352274.79
+      "price": 283.46,
+      "change24h": 3.073,
+      "quote_volume24h": 1825338143.88
     },
     {
       "symbol": "STETHUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 1765.34,
-      "change24h": 3.027,
-      "quote_volume24h": 1473208094.41
+      "price": 1742.92,
+      "change24h": 1.653,
+      "quote_volume24h": 1455750151.69
     },
     {
       "symbol": "BETHUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 1762.4,
-      "change24h": 2.854,
-      "quote_volume24h": 1395080226.22
-    },
-    {
-      "symbol": "OKBUSDT",
-      "status": "ANALIZ_BEKLENIYOR",
-      "price": 84.78,
-      "change24h": 2.988,
-      "quote_volume24h": 1108064001.15
+      "price": 1736.6,
+      "change24h": 1.212,
+      "quote_volume24h": 1439280473.71
     },
     {
       "symbol": "XSPYUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 723.89,
-      "change24h": 2.875,
-      "quote_volume24h": 1070703006.06
+      "price": 724.24,
+      "change24h": 2.871,
+      "quote_volume24h": 1124837335.1
     },
     {
       "symbol": "BCHUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 204.97,
-      "change24h": 3.228,
-      "quote_volume24h": 879569524.37
+      "price": 201.87,
+      "change24h": 1.883,
+      "quote_volume24h": 1119351965.6
+    },
+    {
+      "symbol": "OKBUSDT",
+      "status": "ANALIZ_BEKLENIYOR",
+      "price": 84.23,
+      "change24h": 1.494,
+      "quote_volume24h": 1111964025.91
     },
     {
       "symbol": "XSPCXUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 136.28,
-      "change24h": 4.237,
-      "quote_volume24h": 756174173.44
+      "price": 134.9,
+      "change24h": 3.032,
+      "quote_volume24h": 763916075.49
     },
     {
       "symbol": "XSNDKUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 91.56,
-      "change24h": 10.127,
-      "quote_volume24h": 700640725.52
+      "price": 90.08,
+      "change24h": 7.635,
+      "quote_volume24h": 678947825.57
     },
     {
       "symbol": "TAOUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 195.75,
-      "change24h": 2.94,
-      "quote_volume24h": 617821157.12
+      "price": 193.3,
+      "change24h": 1.625,
+      "quote_volume24h": 621065390.45
     },
     {
       "symbol": "XSOXLUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 43.28,
-      "change24h": 26.995,
-      "quote_volume24h": 495468331.61
-    },
-    {
-      "symbol": "AAVEUSDT",
-      "status": "ANALIZ_BEKLENIYOR",
-      "price": 100.27,
-      "change24h": 1.314,
-      "quote_volume24h": 427992415.81
+      "price": 42.8,
+      "change24h": 26.216,
+      "quote_volume24h": 503114048.64
     },
     {
       "symbol": "XMSTRUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 86.53,
-      "change24h": 4.694,
-      "quote_volume24h": 418740066.83
+      "price": 84.99,
+      "change24h": 3.382,
+      "quote_volume24h": 481545869.32
+    },
+    {
+      "symbol": "AAVEUSDT",
+      "status": "ANALIZ_BEKLENIYOR",
+      "price": 98.56,
+      "change24h": -0.233,
+      "quote_volume24h": 451121136.62
     },
     {
       "symbol": "XTSLAUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 390.97,
-      "change24h": 8.79,
-      "quote_volume24h": 380320829.13
+      "price": 387.85,
+      "change24h": 7.832,
+      "quote_volume24h": 390345549.34
     },
     {
       "symbol": "XCRCLUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 52.84,
-      "change24h": 5.217,
-      "quote_volume24h": 338223036.38
+      "price": 51.32,
+      "change24h": 2.231,
+      "quote_volume24h": 339167115.06
     },
     {
       "symbol": "XANTUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 87.97,
-      "change24h": -2.092,
-      "quote_volume24h": 301130346.43
-    },
-    {
-      "symbol": "YFIUSDT",
-      "status": "ANALIZ_BEKLENIYOR",
-      "price": 1702.0,
-      "change24h": 2.345,
-      "quote_volume24h": 261451510.91
+      "price": 86.99,
+      "change24h": -2.978,
+      "quote_volume24h": 315658871.33
     },
     {
       "symbol": "LTCUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 42.26,
-      "change24h": 5.571,
-      "quote_volume24h": 260757100.91
+      "price": 41.68,
+      "change24h": 4.383,
+      "quote_volume24h": 258740894.9
+    },
+    {
+      "symbol": "YFIUSDT",
+      "status": "ANALIZ_BEKLENIYOR",
+      "price": 1682.0,
+      "change24h": 0.9,
+      "quote_volume24h": 250896202.47
     },
     {
       "symbol": "XAMZNUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 257.4,
-      "change24h": 1.056,
-      "quote_volume24h": 180242705.58
+      "price": 257.52,
+      "change24h": 1.111,
+      "quote_volume24h": 182556261.02
     },
     {
       "symbol": "XMETAUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 595.56,
-      "change24h": 3.432,
-      "quote_volume24h": 152522475.4
+      "price": 600.29,
+      "change24h": 4.28,
+      "quote_volume24h": 158647105.36
     },
     {
       "symbol": "XSOXSUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 49.66,
-      "change24h": -33.672,
-      "quote_volume24h": 139162237.44
+      "price": 50.99,
+      "change24h": -32.365,
+      "quote_volume24h": 153568453.88
     },
     {
       "symbol": "XLITEUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 544.94,
-      "change24h": 13.607,
-      "quote_volume24h": 135549459.48
+      "price": 541.96,
+      "change24h": 12.735,
+      "quote_volume24h": 139041182.11
     },
     {
       "symbol": "XASMLUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 1384.0,
-      "change24h": 6.094,
-      "quote_volume24h": 131650873.2
+      "price": 1384.7,
+      "change24h": 5.977,
+      "quote_volume24h": 132601081.59
     },
     {
       "symbol": "VVVUSDT",
       "status": "ANALIZ_BEKLENIYOR",
       "price": 25.13,
-      "change24h": -1.605,
-      "quote_volume24h": 88085174.14
+      "change24h": -3.048,
+      "quote_volume24h": 90587190.94
     },
     {
       "symbol": "UNIUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 5.017,
-      "change24h": 5.933,
-      "quote_volume24h": 74271336.54
+      "price": 4.91,
+      "change24h": 4.646,
+      "quote_volume24h": 75099163.3
     },
     {
       "symbol": "NEARUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 3.095,
-      "change24h": 2.79,
-      "quote_volume24h": 63297235.08
+      "price": 3.057,
+      "change24h": 1.494,
+      "quote_volume24h": 66682383.45
     },
     {
       "symbol": "JITOSOLUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 97.15,
-      "change24h": 4.88,
-      "quote_volume24h": 50721539.53
+      "price": 96.18,
+      "change24h": 3.832,
+      "quote_volume24h": 52445476.9
     },
     {
       "symbol": "XRPUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 0.9704,
-      "change24h": 4.513,
-      "quote_volume24h": 46040309.82
+      "price": 0.949,
+      "change24h": 2.23,
+      "quote_volume24h": 48467280.68
     },
     {
       "symbol": "LINKUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 9.181,
-      "change24h": 4.081,
-      "quote_volume24h": 42380038.53
+      "price": 9.032,
+      "change24h": 2.415,
+      "quote_volume24h": 43207461.2
     },
     {
       "symbol": "XSMHUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 461.23,
-      "change24h": 8.576,
-      "quote_volume24h": 37148529.68
-    },
-    {
-      "symbol": "LITUSDT",
-      "status": "ANALIZ_BEKLENIYOR",
-      "price": 2.6182,
-      "change24h": 12.157,
-      "quote_volume24h": 31542298.41
+      "price": 460.33,
+      "change24h": 10.296,
+      "quote_volume24h": 36828794.77
     },
     {
       "symbol": "XTTWOUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 211.54,
-      "change24h": 0.437,
-      "quote_volume24h": 29699874.73
+      "price": 209.94,
+      "change24h": -0.399,
+      "quote_volume24h": 35928194.67
+    },
+    {
+      "symbol": "LITUSDT",
+      "status": "ANALIZ_BEKLENIYOR",
+      "price": 2.499,
+      "change24h": 7.576,
+      "quote_volume24h": 31077717.0
     },
     {
       "symbol": "XORCLUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 113.6,
-      "change24h": 8.108,
-      "quote_volume24h": 25727522.38
+      "price": 113.26,
+      "change24h": 7.98,
+      "quote_volume24h": 25667657.28
     },
     {
       "symbol": "XEWYUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 136.46,
-      "change24h": 6.162,
-      "quote_volume24h": 24315737.44
+      "price": 136.57,
+      "change24h": 6.404,
+      "quote_volume24h": 24323721.6
     },
     {
       "symbol": "DASHUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 36.11,
-      "change24h": 1.234,
-      "quote_volume24h": 22995748.17
+      "price": 35.97,
+      "change24h": 0.841,
+      "quote_volume24h": 23930317.62
     },
     {
       "symbol": "AVAXUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 6.936,
-      "change24h": 3.832,
-      "quote_volume24h": 18398682.01
+      "price": 6.854,
+      "change24h": 2.436,
+      "quote_volume24h": 19480165.31
     },
     {
       "symbol": "XCRWVUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 48.71,
-      "change24h": 16.671,
-      "quote_volume24h": 18268861.99
-    },
-    {
-      "symbol": "XBRKBUSDT",
-      "status": "ANALIZ_BEKLENIYOR",
-      "price": 573.89,
-      "change24h": 0.769,
-      "quote_volume24h": 16099963.39
+      "price": 47.83,
+      "change24h": 14.153,
+      "quote_volume24h": 18314444.28
     },
     {
       "symbol": "INJUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 6.714,
-      "change24h": 7.786,
-      "quote_volume24h": 15396005.71
+      "price": 6.601,
+      "change24h": 6.142,
+      "quote_volume24h": 15918257.52
     },
     {
       "symbol": "XCOHRUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 218.11,
-      "change24h": 11.582,
-      "quote_volume24h": 14823194.08
+      "price": 215.28,
+      "change24h": 9.613,
+      "quote_volume24h": 14882380.55
+    },
+    {
+      "symbol": "XBRKBUSDT",
+      "status": "ANALIZ_BEKLENIYOR",
+      "price": 573.19,
+      "change24h": 0.255,
+      "quote_volume24h": 14664065.58
     },
     {
       "symbol": "XAPPUSDT",
       "status": "ANALIZ_BEKLENIYOR",
-      "price": 371.09,
-      "change24h": 4.615,
-      "quote_volume24h": 13190557.29
+      "price": 372.77,
+      "change24h": 5.089,
+      "quote_volume24h": 13845988.11
     }
   ]
 }
